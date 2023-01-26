@@ -1,4 +1,4 @@
-# speechtech
+# https://github.com/PKholyavin/speechtech
 
 Google Drive: https://drive.google.com/drive/folders/1bVjtFb-OLri_773MIqQBMPjshpyHI5em?usp=sharing
 
