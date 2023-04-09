@@ -1,9 +1,13 @@
 # https://github.com/PKholyavin/speechtech
 
 https://github.com/MashaPo/russtress или https://github.com/Desklop/StressRNN
+
 https://github.com/nsu-ai/russian_g2p
+
 https://github.com/IlyaGusev/rupo
+
 ---
+
 http://www.100byte.ru/stdntswrks/accents/accents.html
 
 
