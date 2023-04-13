@@ -1,5 +1,12 @@
 # https://github.com/PKholyavin/speechtech
 
+
+Автоматическое распознавание речи
+Google Colab: https://colab.research.google.com/drive/1nxiBAflMNL-7QD0cf-S35MqR_7jRGqJU?usp=sharing
+
+
+---
+
 https://github.com/MashaPo/russtress или https://github.com/Desklop/StressRNN
 
 https://github.com/nsu-ai/russian_g2p
