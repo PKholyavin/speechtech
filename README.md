@@ -1,7 +1,18 @@
 # https://github.com/PKholyavin/speechtech
 
+G2P
+
+https://github.com/AdolfVonKleist/Phonetisaurus
+
+https://pypi.org/project/phonetisaurus/
+
+https://colab.research.google.com/drive/1ZQpvdCiChTq7zqrjE8va0UFEkWc-aubV?usp=sharing
+
+
+---
 
 Автоматическое распознавание речи
+
 Google Colab: https://colab.research.google.com/drive/1nxiBAflMNL-7QD0cf-S35MqR_7jRGqJU?usp=sharing
 
 
