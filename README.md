@@ -1,5 +1,16 @@
 # https://github.com/PKholyavin/speechtech
 
+irony + emoji
+
+весь корпус: https://drive.google.com/file/d/11s96k-WaaZ6KFGMqiv2xLTJQCHl6TLtU/view?usp=share_link
+
+только с эмодзи: https://drive.google.com/file/d/19CVYl9IFtbcAauFpJzX_V-dFZ8zEs7Mj/view?usp=sharing
+
+колаб: https://colab.research.google.com/drive/1Ay5JAdfshrNlr0xGvGZfNGWKWS5hgF5Q?usp=sharing
+
+
+---
+
 G2P
 
 https://github.com/AdolfVonKleist/Phonetisaurus
