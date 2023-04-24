@@ -1,8 +1,10 @@
 # https://github.com/PKholyavin/speechtech
 
-pitch detection
+psola
 
 REAPER: https://colab.research.google.com/drive/1o4519JF7e6K2jaKbLqE4grmTXECs_1G_?usp=sharing
+
+PSOLA: https://www.researchgate.net/profile/Pirros-Tsiakoulis/publication/224143428/figure/fig1/AS:302858764341248@1449218564079/A-schematic-illustration-of-the-TD-PSOLA-method-by-concatenation-and-overlap-add-of-the.png
 
 ---
 
