@@ -1,5 +1,11 @@
 # https://github.com/PKholyavin/speechtech
 
+pitch detection
+
+REAPER: https://colab.research.google.com/drive/1o4519JF7e6K2jaKbLqE4grmTXECs_1G_?usp=sharing
+
+---
+
 irony + emoji
 
 весь корпус: https://drive.google.com/file/d/11s96k-WaaZ6KFGMqiv2xLTJQCHl6TLtU/view?usp=share_link
