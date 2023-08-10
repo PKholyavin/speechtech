@@ -9,6 +9,8 @@ Praat: https://www.fon.hum.uva.nl/praat/
 
 Синтез речи:  
 гугл-диск: https://drive.google.com/drive/folders/1hKROzJco5KJTG19QMxua91eOQGrZnIAo?usp=sharing  
+текст: https://raw.githubusercontent.com/PKholyavin/speechtech/main/fpt_stresses.txt  
+транскрипция: https://raw.githubusercontent.com/PKholyavin/speechtech/main/fpt_transcription.txt  
 
 ---
 
