@@ -1,14 +1,14 @@
 # https://github.com/PKholyavin/speechtech
 
 ---
-Praat: https://www.fon.hum.uva.nl/praat/
+Praat: https://www.fon.hum.uva.nl/praat/ 
 
-Автоматическое распознавание речи:
-гугл-диск: https://drive.google.com/drive/folders/1bVjtFb-OLri_773MIqQBMPjshpyHI5em?usp=sharing
-колаб: https://colab.research.google.com/drive/1-XCezc-Kte7LXfZwjlaOuY9Dzvo3Pv44?usp=sharing
+Автоматическое распознавание речи: 
+гугл-диск: https://drive.google.com/drive/folders/1bVjtFb-OLri_773MIqQBMPjshpyHI5em?usp=sharing 
+колаб: https://colab.research.google.com/drive/1-XCezc-Kte7LXfZwjlaOuY9Dzvo3Pv44?usp=sharing 
 
-Синтез речи:
-гугл-диск: https://drive.google.com/drive/folders/1hKROzJco5KJTG19QMxua91eOQGrZnIAo?usp=sharing
+Синтез речи: 
+гугл-диск: https://drive.google.com/drive/folders/1hKROzJco5KJTG19QMxua91eOQGrZnIAo?usp=sharing 
 
 ---
 
