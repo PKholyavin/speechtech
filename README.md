@@ -1,7 +1,7 @@
 # https://github.com/PKholyavin/speechtech
 
 ---
-Praat: https://praat.org
+Praat: https://www.fon.hum.uva.nl/praat/
 
 Автоматическое распознавание речи:
 гугл-диск: https://drive.google.com/drive/folders/1bVjtFb-OLri_773MIqQBMPjshpyHI5em?usp=sharing
