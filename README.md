@@ -1,5 +1,17 @@
 # https://github.com/PKholyavin/speechtech
 
+---
+Praat: praat.org
+
+Автоматическое распознавание речи:
+гугл-диск: https://drive.google.com/drive/folders/1bVjtFb-OLri_773MIqQBMPjshpyHI5em?usp=sharing
+колаб: https://colab.research.google.com/drive/1-XCezc-Kte7LXfZwjlaOuY9Dzvo3Pv44?usp=sharing
+
+Синтез речи:
+гугл-диск: https://drive.google.com/drive/folders/1hKROzJco5KJTG19QMxua91eOQGrZnIAo?usp=sharing
+
+---
+
 psola
 
 REAPER: https://colab.research.google.com/drive/1o4519JF7e6K2jaKbLqE4grmTXECs_1G_?usp=sharing
