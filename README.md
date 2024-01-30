@@ -1,6 +1,9 @@
 # https://github.com/PKholyavin/speechtech
 
 ---
+Фонетически представительный текст: https://drive.google.com/drive/folders/1hKROzJco5KJTG19QMxua91eOQGrZnIAo?usp=sharing
+
+---
 Praat: https://www.fon.hum.uva.nl/praat/  
 
 Автоматическое распознавание речи:  
